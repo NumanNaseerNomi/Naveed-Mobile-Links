@@ -2,5 +2,7 @@
 
 Home Page
 
-![naveedlinks dev_(Full HD 1080p)](https://user-images.githubusercontent.com/61705661/168467348-40182d05-9b71-4b58-934a-896e9836162b.png)
+![naveedlinks dev_(HD 720p)](https://user-images.githubusercontent.com/61705661/168467413-c56753ea-a561-4078-b882-eb40d273c7e7.png)
+
+
 
