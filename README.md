@@ -14,10 +14,19 @@
 
 ![naveedlinks dev_html_contactUs php(HD 720p)](https://user-images.githubusercontent.com/61705661/168467705-f8be2b01-3448-40d9-8531-bb165b87a42c.png)
 
-# My Repair
+# My Repair Page
 
 ![naveedlinks dev_html_myRepair php(HD 720p)](https://user-images.githubusercontent.com/61705661/168467755-a379fb20-d10c-471a-b367-6642b49fea95.png)
 
+# Admin Login Page
+
+![naveedlinks dev_admin_(HD 720p)](https://user-images.githubusercontent.com/61705661/168467838-4336ba94-6c0a-4a5e-960d-d4ffface506a.png)
+
+# Admin Home Page
+
+![naveedlinks dev_admin_php_admin php(HD 720p)](https://user-images.githubusercontent.com/61705661/168467918-88728f5a-f47f-4bb6-9781-c9244e0b8a12.png)
+
+![naveedlinks dev_admin_php_admin php(iPhone 6_7_8 Plus)](https://user-images.githubusercontent.com/61705661/168467950-6d661013-a677-4ccd-89a9-017a7b3d5576.png)
 
 
 
